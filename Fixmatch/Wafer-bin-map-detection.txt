@@ -1,0 +1,21 @@
+python3
+
+pytorch == 1.12.1
+
+torchvision == 0.13.1
+
+numpy == 1.23.5
+
+progress
+
+scipy
+
+matplotlib
+
+tensorboardX
+
+pandas == 1.5.2
+
+sklearn
+
+RandAugment(pip install git+https://github.com/ildoonet/pytorch-randaugment)
